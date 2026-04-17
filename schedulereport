@@ -1,0 +1,18 @@
+WEEKLY SCHEDULE REPORT
+=====================
+Report ID: WSR_1763892657
+Generated: 2025-11-23 15:10
+Week Starting: 2025-11-24
+Total Sections: 5
+
+SCHEDULE DETAILS:
+-----------------------------------------------------------------------------------------------------------
+Section ID   Section Name        Lab ID   Day   Start Time  End Time  Duration  Instructor    Venue
+-----------------------------------------------------------------------------------------------------------
+1           a                  1        Monday      08:30      11:30     3.0      h1             1         
+3           c                  1`       Wednesday   10:00      11:30     1.5      h3             2         
+3           d                  2        Saturday    10:00      12:30     2.5      h2             2         
+4           cslab              4        Tuesday     10:30      14:30     4.0      h4             4         
+1a          a                  1        Monday      02:00      04:00     2.0      hi2            1         
+
+=== END OF REPORT ===

@@ -1,0 +1,18 @@
+# Build and cache
+.vs/
+x64/
+*.exe
+*.pdb
+*.obj
+*.log
+*.tlog/
+
+# Reports and datasets
+cccc_report/
+CCCC/
+*.dat
+
+# Visual Studio user files
+*.suo
+*.user
+*.vcxproj.user
